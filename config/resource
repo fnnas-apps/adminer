@@ -1,0 +1,12 @@
+{
+  "data-share": {
+    "shares": [
+      {
+        "name": "adminer"
+      },
+      {
+        "name": "adminer/data"
+      }
+    ]
+  }
+}
